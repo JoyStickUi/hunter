@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/764uUrl3.png</file>
+        <file>img/spmap.png</file>
+        <file>json/map.json</file>
+        <file>json/objects_map.json</file>
+        <file>img/skeleton.png</file>
+        <file>img/forest_battle_bg.jpg</file>
+        <file>img/dirty-road.png</file>
+        <file>img/chest.png</file>
+        <file>img/Ibattle_control.png</file>
+        <file>img/items_border.png</file>
+        <file>img/heal_potion.png</file>
+        <file>img/mana_potion.png</file>
+        <file>img/slime.png</file>
+        <file>img/FiredPlayer.png</file>
+        <file>img/FrozenPlayer.png</file>
+        <file>img/middleground.png</file>
+        <file>img/background.png</file>
+        <file>img/trader.png</file>
+        <file>img/Ibattle_control_FG.png</file>
+        <file>img/portalt.png</file>
+        <file>img/[A]Flower_pipo.png</file>
+        <file>img/Knight.png</file>
+        <file>img/gargoyle.png</file>
+        <file>img/adventurer.png</file>
+        <file>img/Necromancer.png</file>
+        <file>img/castle_battle_bg.jpg</file>
+        <file>img/golden_skeleton.png</file>
+        <file>img/dead_men.png</file>
+        <file>img/grave_defender.png</file>
+        <file>img/Control.jpg</file>
+        <file>img/StartWindow.jpg</file>
+    </qresource>
+</RCC>
